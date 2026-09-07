@@ -5,7 +5,7 @@ Exercícios desenvolvidos durante a disciplina de Linguagem de Programação I (
 ## Desafios
 
 ### 1. Análise de Vendas (`for`)
-📂 (./vendas.py)
+📂 [`/vendas.py`]
 
 Sistema que analisa as vendas de um dia de uma loja: recebe a quantidade de vendas e o valor de cada uma, e apresenta um relatório com total vendido, média, percentual de vendas acima de R$100, maior e menor venda, e uma contagem regressiva de encerramento de caixa.
 
